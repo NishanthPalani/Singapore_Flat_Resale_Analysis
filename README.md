@@ -21,4 +21,21 @@ The resale flat market in Singapore is highly competitive, and it can be challen
 - Deployment on Render
 - Testing and validation
 
+## Knowledge share needed
+```python
+Python -- Programming Language
+pandas -- Python Library for Data Visualization
+numpy -- Fundamental Python package for scientific computing in Python
+streamlit -- Python framework to rapidly build and share beautiful machine learning and data science web apps
+scikit-learn -- Machine Learning library for the Python programming language
+```
+
+## The following are the fundamental outline of the project:
+- The Resale Flat Prices dataset has five distinct CSV files, each representing a specific time period. These time periods are 1990 to 1999, 2000 to 2012, 2012 to 2014, 2015 to 2016, and 2017 onwards. Therefore, it is essential to merge the five distinct CSV files into a unified dataset.
+- The data will be converted into a format that is appropriate for analysis, and any required cleaning and pre-processing procedures will be carried out. Relevant features from the dataset, including town, flat type, storey range, floor area, flat model, and lease commence date will be extracted. Any additional features that may enhance prediction accuracy will also be created.
+- The objective of this study is to construct a machine learning regression model that utilizes the decision tree regressor to accurately forecast the continuous variable 'resale_price'.
+- The objective is to develop a Streamlit webpage that enables users to input values for each column and get the expected resale_price value for the flats in Singapore.
+
+## Expected Results:
+The project will benefit both potential buyers and sellers in the Singapore housing market. Buyers can use the application to estimate resale prices and make informed decisions, while sellers can get an idea of their flat's potential market value. Additionally, the project demonstrates the practical application of machine learning in real estate and web development.
 
