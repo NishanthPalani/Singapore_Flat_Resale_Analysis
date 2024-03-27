@@ -51,8 +51,8 @@ Month
 Year
 Floor
 
-Click the "PREDICT RESALE PRICE" button.
-The app will display the predicted resale price based on the provided information.
+Click the "PREDICT" button.
+predicted resale value will be displayed with 97% accuracy.
 ```
 
 ## Expected Results:
